@@ -1,12 +1,18 @@
 +++
-date = "2023-06-06"
+date = "2024-08-29"
 title = "About Me" 
 draft = false
-summary = "This is an about me." 
+summary = "About Alexander Womack" 
 showInMenu = true
 
 +++
 
-Brag sheet used to be here.
+This is Alexander Womack's personal website. 
+
+I am currently a sophomore at Amherst College, having graduated from East Brunswick High School! 
+My potential majors include chemistry, math, and german. 
+
+Here is my [resume](/docs/AlexanderWomackResume.pdf).
+
 
 
